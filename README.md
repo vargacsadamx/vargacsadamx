@@ -27,13 +27,6 @@ Because sometimes, **one form isn’t enough**—so why not **unlock them all**?
 
 ---
 
-### 📈 My GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vargacsadamx&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00FF00&fire=00FF00&sideNums=FFFFFF" alt="GitHub Streak">
-</p>
-
----
-
 ### 🟢 Hero Time! (How to Reach Me)  
 If you're into coding, gaming, or debating the **best alien transformation**, feel free to reach out!  
 
