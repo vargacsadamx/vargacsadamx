@@ -35,3 +35,6 @@ If you're into coding, gaming, or debating the **best alien transformation**, fe
 <p align="center">
   <img src="https://media.tenor.com/ZlSxpkcyT0kAAAAC/ben10-omnitrix.gif" width="200">
 </p>
+
+![snake gif](https://github.com/vargacsadamx/vargacsadamx/blob/output/github-contribution-grid-snake.svg)
+
